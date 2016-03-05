@@ -1,0 +1,35 @@
+Sources
+
+background
+https://static-s.aa-cdn.net/img/gp/20600000684668/ZEqM5Xg37EhhPuYhJu5teexWa90lodk0ikOX2zz4Kbq884eDmbhaNuwrhCS-ni-5KlA=h900
+
+asteroid
+http://pre11.deviantart.net/cc18/th/pre/i/2013/130/0/5/asteroid_stock_2_by_fimar-d64qotz.png
+
+astronaut
+http://www.orchard.co.uk/bloguploads/Blog%20images/September%202014/NASA/spacemancut.png
+
+bruce willis head cut from 
+https://aminddivideddotcom.files.wordpress.com/2012/09/bruce-looper.jpg
+
+music by Aerosmith
+http://music.naij.com/35300-aerosmith-i-dont-wanna-miss-a-thing
+
+used to create screen wrapping
+*I actually thought up the method to do it and googled to see if there was a more efficient way*
+http://gamedevelopment.tutsplus.com/articles/create-an-asteroids-like-screen-wrapping-effect-with-unity--gamedev-15055
+
+exploding planet
+http://eskipaper.com/images/exploding-planet-1.jpg
+
+missile
+http://orig07.deviantart.net/efa2/f/2008/339/2/9/missile_1_by_trekkie313.png
+
+failure sound effect taken from
+https://www.youtube.com/watch?v=zpG1Ywmbioc
+
+sad bruce willis from 
+http://www.hotflick.net/flicks/2004_The_Whole_Ten_Yards/004WTY_Bruce_Willis_009.jpg
+
+jet flame
+http://www.dundjinni.com/forums/uploads/Zicon/Jet_flame_large-b.png
